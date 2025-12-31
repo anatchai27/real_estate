@@ -1,0 +1,204 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Contact",
+    "consultFree": "Free Consultation",
+    "appointment": "Book Appointment"
+  },
+  "Hero": {
+    "subtitle": "Premium Home Builder",
+    "title1": "We are Experts in",
+    "title2": "Home Building",
+    "title3": "in Rayong and Eastern Thailand",
+    "desc": "Turn your imagination into a space of happiness with international engineering standards and designs that reflect your identity.",
+    "cta": "Schedule a Consultation"
+  },
+  "Business": {
+    "subtitle": "Our Business",
+    "title": "REAL ESTRAD Business Group",
+    "services": {
+      "build": {
+        "title": "Home Building",
+        "desc": "Design and construct new homes according to your needs"
+      },
+      "extend": {
+        "title": "Home Extension",
+        "desc": "Expand living space, kitchen extensions, garages"
+      },
+      "renovate": {
+        "title": "Renovation",
+        "desc": "Modernize and improve old houses"
+      },
+      "interior": {
+        "title": "Interior Design",
+        "desc": "Complete interior decoration and built-in services"
+      }
+    }
+  },
+  "HomeStyles": {
+    "subtitle": "Home Styles",
+    "title": "Find Your Dream Home Style",
+    "viewPlan": "View House Plans",
+    "desc": "Designed by professional architects, focusing on function and practical use."
+  },
+  "Stats": {
+    "projects": "Projects Delivered",
+    "experience": "Years of Experience",
+    "satisfaction": "Customer Satisfaction"
+  },
+  "RecentProjects": {
+    "title": "Our Recent Projects",
+    "subtitle": "Examples of projects we are proud of",
+    "viewDetails": "View Project Details",
+    "projects": {
+      "p1": {
+        "title": "Modern Single House",
+        "desc": "2-story single house construction project, 250 sq.m. living area, modern design focusing on openness and comfort.",
+        "cat": "New Build"
+      },
+      "p2": {
+        "title": "Thai Kitchen Extension",
+        "desc": "Thai kitchen extension with micropile foundation for strength, tiled floors, and concrete kitchen counters.",
+        "cat": "Extension"
+      },
+      "p3": {
+        "title": "Old Townhome Renovation",
+        "desc": "Transforming a 20-year-old townhome into a minimalist style home with completely new electrical and plumbing systems.",
+        "cat": "Renovation"
+      }
+    }
+  },
+  "Footer": {
+    "about": "A comprehensive home building company in Eastern Thailand. We are experts in design, construction, and interior decoration with professional standards.",
+    "contact": "Contact Us",
+    "address": "96 Moo 2, Wang Wa, Klaeng, Rayong 21110",
+    "serviceArea": "Service Areas",
+    "areas": [
+      "Rayong (Muang, Klaeng, Ban Chang)",
+      "Chonburi (Pattaya, Sriracha)",
+      "Chanthaburi",
+      "Trat"
+    ]
+  },
+  "Appointment": {
+    "title": "Book a Consultation",
+    "name": "Full Name",
+    "namePlaceholder": "Please enter your name",
+    "phone": "Phone Number",
+    "phonePlaceholder": "08x-xxx-xxxx",
+    "service": "Interested Service",
+    "serviceSelect": "Select service...",
+    "budget": "Estimated Budget",
+    "budgetSelect": "Select budget range...",
+    "details": "Additional Details / Land Size",
+    "detailsPlaceholder": "e.g., land size, preferred style, construction area",
+    "submit": "Submit Appointment",
+    "services": [
+      "New Home Construction",
+      "Home Extension",
+      "Renovation",
+      "Interior Design"
+    ],
+    "budgets": [
+      "Below 1 Million Baht",
+      "1 - 3 Million Baht",
+      "3 - 5 Million Baht",
+      "Above 5 Million Baht"
+    ]
+  },
+  "About": {
+    "heroTitle": "About Us",
+    "heroSubtitle": "Building confidence with over 12 years of experience",
+    "historyTitle": "History & Vision",
+    "historyDesc1": "REAL ESTRAD started as a small team of engineers committed to building quality homes. Over the past 12 years, we have delivered more than 200 homes across Eastern Thailand. We prioritize honesty, engineering standards, and customer satisfaction above all else.",
+    "vision": "Our vision is to be a leader in home building that reflects the identity of the residents, using modern and sustainable construction innovations.",
+    "teamTitle": "Professional Team",
+    "teamSubtitle": "Expert architects, engineers, and foremen",
+    "teamMember": "Quality Team Member",
+    "teamRole": "Architect / Engineer",
+    "certTitle1": "Professional Licenses",
+    "certDesc1": "Engineers and architects are legally licensed.",
+    "certTitle2": "Registered Company",
+    "certDesc2": "Reliable, no job abandonment, verifiable identity.",
+    "certTitle3": "Quality Awards",
+    "certDesc3": "Received the Outstanding Construction Standard Award 2023."
+  },
+  "Services": {
+    "heroTitle": "Our Services",
+    "heroSubtitle": "Comprehensive home services from design to delivery",
+    "processTitle": "Work Process",
+    "processSubtitle": "We work systematically for the best quality",
+    "steps": [
+      { "title": "Consultation", "desc": "Listen to needs and provide initial budget estimation" },
+      { "title": "Design & Planning", "desc": "Architects design the home according to client's style" },
+      { "title": "Permits & Filing", "desc": "Handle government documents and construction permits" },
+      { "title": "Construction", "desc": "Supervised by professional engineers and foremen" },
+      { "title": "Handover", "desc": "Inspect the house and deliver the keys to your dream home" }
+    ],
+    "structTitle": "Structure & Systems",
+    "structDesc": "We use TIS standard steel and high-quality ready-mixed concrete, with safe electrical and plumbing systems.",
+    "structItems": [
+      "Micropile foundation",
+      "Piped termite control system",
+      "10-year structural warranty"
+    ],
+    "materialTitle": "Standard Materials (Standard Specs)",
+    "materialDesc": "Selected leading brands for durability and sustainable beauty.",
+    "materialItems": [
+      "SCG / CPAC Roofing",
+      "TOA / Jotun Paint",
+      "American Standard / Cotto Sanitary Ware"
+    ],
+    "warrantyTitle": "Quality Warranty",
+    "warrantyLead": "10-year structural warranty and 1-year architectural warranty",
+    "warrantyDesc": "We take care of you even after handover. Confidence in after-sales service."
+  },
+  "Portfolio": {
+    "heroTitle": "Our Portfolio",
+    "heroSubtitle": "Proudly building dream homes for over 200 families",
+    "filterAll": "All",
+    "location": "Location",
+    "area": "Living Area",
+    "style": "Style",
+    "viewDetails": "View Project Details"
+  },
+  "Blog": {
+    "heroTitle": "Articles & Insights",
+    "heroSubtitle": "Great ideas and techniques for home lovers",
+    "readMore": "Read More",
+    "search": "Search Articles",
+    "searchPlaceholder": "Type to search...",
+    "categories": "Categories",
+    "recentPosts": "Recent Posts"
+  },
+  "Contact": {
+    "heroTitle": "Contact Us",
+    "heroSubtitle": "Free home consultation, no charges",
+    "infoTitle": "Contact Channels",
+    "addressTitle": "Office Address",
+    "phoneTitle": "Phone Number",
+    "lineTitle": "Line Official",
+    "emailTitle": "Email",
+    "hoursTitle": "Business Hours",
+    "hoursDesc": "Mon - Sat: 08:30 - 17:30",
+    "formTitle": "Send us a Message",
+    "name": "Full Name",
+    "namePlaceholder": "Please enter your name",
+    "phone": "Phone Number",
+    "phonePlaceholder": "08x-xxx-xxxx",
+    "service": "Interested Service",
+    "serviceSelect": "Select service...",
+    "message": "Your Message",
+    "messagePlaceholder": "Type your message here...",
+    "submit": "Send Message"
+  },
+  "Common": {
+    "viewMore": "View More",
+    "readMore": "Read More",
+    "contactUs": "Contact Us"
+  }
+}
